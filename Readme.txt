@@ -1,6 +1,6 @@
 This is Scala codes with Spark to search target word and find the document with highest TF score and corresponding TF score. main() will call getTF() to create a RDD(named as joined in the codes) in this format: (word, List((fileName1, TermFrequencyScore1),(fileName2, TermFrequencyScore2)…)). Using this RDD, we will get the docuemnt with highest TF score and corresponding TF score.
 
-I made it a Maven project using IntelliJ IDEA, so I think to run this codes, you just need to pull it from GitHub and run TermFrequency.scala. The sample documents are in data folder. The output result is in result.txt.
+I made it a Maven project using IntelliJ IDEA, so I think to run this codes, you just need to pull it from GitHub and run TermFrequency.scala (under src/main/scala/TermFrequency). The sample documents are in data folder. The output result is in result.txt.
 
 Github:https://github.com/Aoweid/TermFrequencyScore-ScalaWithSpark
 
