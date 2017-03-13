@@ -1,0 +1,3 @@
+{"Word":"queequeg","DocumentName":"mobydick-chapter4.txt","TermFrequency":0.00777511961722488}
+{"Word":"whale","DocumentName":"mobydick-chapter1.txt","TermFrequency":0.0013380909901873326}
+{"Word":"sea","DocumentName":"mobydick-chapter1.txt","TermFrequency":0.005798394290811775}
